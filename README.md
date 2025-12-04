@@ -63,7 +63,7 @@ To build and run the Docker image using Docker Compose, use the following comman
 docker-compose up
 ```
 
-This will build the Docker image and then run it, mapping the container's port 8080 to port 8080 on the host machine. You can then access the API by visiting `http://localhost:8080` in your web browser.
+This will build the Docker image and then run it, mapping the container's port 8080 to port 8080 on the host machine. You can then access the API by visiting `http://localhost:8080` in your web browser
 
 ## Contributing
 
