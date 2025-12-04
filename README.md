@@ -12,7 +12,7 @@ The server only supports the HTTP GET method at the moment. When a GET request i
 
 ## Running with Docker Compose
 
-Below is the [Dockerfile](Dockerfile) for the C++ application:
+Below is the [Dockerfile](Dockerfile) for the C++ application
 
 ```Dockerfile
 # Use the official Ubuntu image as the base image
